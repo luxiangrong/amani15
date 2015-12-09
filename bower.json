@@ -1,0 +1,10 @@
+{
+  "name": "amani15",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "Swiper": "swiper#~3.2.7",
+    "animate.css": "~3.4.0"
+  },
+  "overrides": {}
+}
